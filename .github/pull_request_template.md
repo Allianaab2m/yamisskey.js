@@ -1,10 +1,10 @@
 <!-- ℹ お読みください
 PRありがとうございます！ PRを作成する前に、コントリビューションガイドをご確認ください:
-https://github.com/misskey-dev/misskey.js/blob/develop/CONTRIBUTING.md
+https://github.com/Allianaab2m/yamisskey.js/blob/develop/CONTRIBUTING.md
 -->
 <!-- ℹ README
 Thank you for your PR! Before creating a PR, please check the contribution guide:
-https://github.com/misskey-dev/misskey.js/blob/develop/docs/CONTRIBUTING.en.md
+https://github.com/Allianaab2m/yamisskey.js/blob/develop/docs/CONTRIBUTING.en.md
 -->
 
 # What
