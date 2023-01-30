@@ -19,14 +19,14 @@ JavaScript(TypeScript)用の公式MisskeySDKです。ブラウザ/Node.js上で�
 
 ## Install
 ```
-npm i misskey-js
+npm i yamisskey-js
 ```
 
 # Usage
 インポートは以下のようにまとめて行うと便利です。
 
 ``` ts
-import * as Misskey from 'yamisskey.js';
+import * as Misskey from 'yamisskey-js';
 ```
 
 便宜上、以後のコード例は上記のように`* as Misskey`としてインポートしている前提のものになります。
@@ -34,7 +34,7 @@ import * as Misskey from 'yamisskey.js';
 ただし、このインポート方法だとTree-Shakingできなくなるので、コードサイズが重要なユースケースでは以下のような個別インポートをお勧めします。
 
 ``` ts
-import { api as misskeyApi } from 'yamisskey.js';
+import { api as misskeyApi } from 'yamisskey-js';
 ```
 
 ## Authenticate
