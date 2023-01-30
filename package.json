@@ -1,6 +1,6 @@
 {
 	"name": "yamisskey-js",
-	"version": "0.0.15",
+	"version": "0.0.16",
 	"description": "Yet another Misskey SDK for JavaScript/TypeScript",
 	"main": "./built/index.js",
 	"types": "./built/index.d.ts",
