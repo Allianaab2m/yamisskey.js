@@ -1,7 +1,7 @@
 {
-	"name": "misskey-js",
+	"name": "yamisskey-js",
 	"version": "0.0.14",
-	"description": "Misskey SDK for JavaScript",
+	"description": "Yet another Misskey SDK for JavaScript/TypeScript",
 	"main": "./built/index.js",
 	"types": "./built/index.d.ts",
 	"scripts": {
@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/misskey-dev/misskey.js.git"
+		"url": "git+https://github.com/Allianaab2m/yamisskey.js.git"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.19.3",
